@@ -1,6 +1,6 @@
 +++
 title = "Erfolgreich sein beginnt im Kopf – Wie die richtige Einstellung zum Erfolg führt "
-date = "2023-05-16"
+date = "2023-06-01"
 draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
@@ -25,6 +25,9 @@ Wir haben uns mit zwei Experten zum Thema Mentalität unterhalten und kontrovers
 
 Durch die Diskussion mit ihm haben wir gelernt, dass es besser ist, sich realistische Ziele zu setzen oder Ziele, bei denen man bereits erfolgreich war. Dadurch hat man mehr Erfolgserlebnisse und kommt schneller in einen "Flow", in dem man viele Erfolgserlebnisse hat.
 
-![Bild: Livia Loretan](foto.jpeg)
+![Bild: Livia Loretan](foto-1-.jpeg)
 
 Wir haben auch Livia interviewt, eine Studentin, die eine Maturaarbeit über Mentaltraining geschrieben hat und selbst ein solches Training absolviert hat. Livia wollte herausfinden, wie sich mentales Training auswirkt, und hat daher für kurze Zeit an einem solchen Training teilgenommen.  Zudem wollte sie auch ihre mentale Stärke im Volleyball verbessern, weshalb sie sich für dieses Training entschieden hat. Wie Herr Hirt betont auch Livia, wie wichtig es ist, sich realistische Ziele zu setzen. Sie hat dies in ihrem eigenen Mentaltraining gelernt und wendet es auch heute noch im Alltag an. Für sie sind kleine Ziele effektiver, da sie uns ein Erfolgserlebnis verschaffen und uns motivieren können, während zu hoch gesteckte Ziele eher demotivierend wirken können.
+{{<box>}}
+
+{{</box>}}
