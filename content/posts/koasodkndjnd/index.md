@@ -1,7 +1,7 @@
 +++
 title = "Erfolgreich sein beginnt im Kopf – Wie die richtige Einstellung zum Erfolg führt "
 date = "2023-05-16"
-draft = true
+draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
 description = ""
@@ -11,7 +11,7 @@ footnotes = ""
 Erfolg ist ein Ziel, das man in vielen Bereichen des Lebens anstrebt. Aber wie kann man ihn erreichen und wo soll man anfangen? Eine Antwort auf diese Fragen lautet: Die richtige Einstellung. Doch was genau zeichnet eine "richtige" Einstellung aus? In unserem Reportageprojekt gehen wir dieser Frage nach. Wir haben Experten und Betroffene interviewt, um herauszufinden, wie eine positive Einstellung auf den Weg zum Erfolg führen kann.
 {{</lead>}}
 
-***Eine Reportage von Thanushan Ravi und Vansh Gagan***
+***Von Thanushan Ravi und Vansh Gagan***
 
 ##### Was ist Erfolg?
 
