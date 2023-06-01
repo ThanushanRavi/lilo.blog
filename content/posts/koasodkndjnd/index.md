@@ -19,7 +19,7 @@ Wir haben uns mit zwei Experten zum Thema Mentalität unterhalten und kontrovers
 
 > "Wenn du dir zu hohe Ziele setzt, wird es schwieriger, egal wie gut deine Einstellung ist."
 >
-> *\-Kishore Hirt*
+> *Kishore Hirt*
 
 ![Bild: Kishore Hirt, ehemaliger Trainer des FC Thun](kishore-hirt-mentaltrainer-23.jpg)
 
@@ -28,6 +28,53 @@ Durch die Diskussion mit ihm haben wir gelernt, dass es besser ist, sich realist
 ![Bild: Livia Loretan](foto-1-.jpeg)
 
 Wir haben auch Livia interviewt, eine Studentin, die eine Maturaarbeit über Mentaltraining geschrieben hat und selbst ein solches Training absolviert hat. Livia wollte herausfinden, wie sich mentales Training auswirkt, und hat daher für kurze Zeit an einem solchen Training teilgenommen.  Zudem wollte sie auch ihre mentale Stärke im Volleyball verbessern, weshalb sie sich für dieses Training entschieden hat. Wie Herr Hirt betont auch Livia, wie wichtig es ist, sich realistische Ziele zu setzen. Sie hat dies in ihrem eigenen Mentaltraining gelernt und wendet es auch heute noch im Alltag an. Für sie sind kleine Ziele effektiver, da sie uns ein Erfolgserlebnis verschaffen und uns motivieren können, während zu hoch gesteckte Ziele eher demotivierend wirken können.
-{{<box>}}
 
-{{</box>}}
+`{{</*box*/>}}`
+
+##### SMART Ziele
+
+Herr Hirt erwähnt während des Gesprächs, dass diese Ziele auch als SMART-Ziele bezeichnet werden. 
+Der Buchstabe "S" steht für selbstbestimmt und spezifisch. Das Ziel muss so formuliert sein, dass es von sich selbst abhängt. Ausserdem muss es klar und präzise definiert sein.
+
+Der Buchstabe "M" steht für messbar, in Schritten. Es ist besonders wichtig, die wichtigsten Etappenziele in Wochen und Monate zu unterteilen und nicht alles auf einmal zu erledigen. So kann man den Fortschritt kontrollieren und regelmäßig Ergebnisse erzielen. Man kann sich die folgende Frage stellen: "Woran erkenne ich, dass ich mein Ziel erreicht habe?".
+"A" steht für attraktiv. Das Ziel muss persönlich bedeutsam und attraktiv sein, damit man sich darauf einlässt.
+"R" für realistisch - Ziele sollten so realistisch wie möglich gesetzt werden, die Vision muss über uns hinausgehen, aber die Ziele müssen erreichbar sein, um Demotivation zu vermeiden.
+"T" steht für Termin - Ziele sind Wünsche mit einer festen Frist. Anstatt zu sagen: "Ich werde bald mit dem Training beginnen", ist es wichtig, ein konkretes Datum festzulegen und dann zu beginnen. Dazu muss man den Glauben und den Willen an sich selbst haben, um anzufangen.
+
+Das Modell hilft beim Setzen von Zielen, denn es stellt sicher, dass alles klar, präzise und messbar ist und dass diese Ziele innerhalb eines bestimmten Zeitraums erreicht werden können. 
+Kishore Hirt und Livia haben uns von einem Prinzip erzählt, das dem SMART-Prinzip ähnelt. Livia studiert derzeit und braucht ein ähnliches Prinzip für ihren Alltag. 
+`{{</*box*/>}}`
+
+##### Beginnt Erfolg wirklich im Kopf?
+
+Ist Erfolg wirklich eine Frage der Einstellung? Hat ein Kind, das in Armut aufwächst oder im falschen Land geboren wurde, die gleichen Chancen auf Erfolg oder gibt es Faktoren wie Umstände, Privilegien und Glück, die den Erfolg beeinflussen? 
+Wir haben ein sehr aufschlussreiches Gespräch mit Herrn Siegenthaler geführt. Ramon Siegenthaler ist ein langjähriger Spitzensportler und Trainer, der sowohl im Handball als auch im Parkour aktiv war und sein Wissen nun als Erwachsenenbildner einsetzt, um Athleten bei der körperlichen und mentalen Vorbereitung auf den Wettkampf zu helfen.
+
+> "Jemand der in China aufwächst und zum Beispiel sehr viel Talent im Fussball hat oder dem das Umfeld fehlt, dann ist die Wahrscheinlichkeit, dass er sehr gut oder bekannt wird, ziemlich klein" 
+>
+> *Ramon Siegenthaler*
+
+Herr Siegenthaler ist fest davon überzeugt, dass der Ort, an dem man geboren wurde, und die Ausrüstung, die einem zur Verfügung steht, für den Erfolg ausschlaggebend sein können, egal wie intensiv man trainiert. 
+Nicht nur Ramon Siegenthaler, sondern auch Kishore Hirt ist mit dieser Ansicht einverstanden. Er betont, dass der Zugang zu Ressourcen wie Geld und die Unterstützung der Eltern einen grossen Einfluss auf den Erfolg haben können. Viele haben zum Beispiel Zugang zu speziellen Sportschulen, die es für andere nicht gibt, und das kann einen grossen Unterschied machen.
+
+##### Erfolg lässt sich kaufen
+
+Die Ungerechtigkeit des Weges zum Erfolg ist seit langem ein Diskussionsthema. In einer gross angelegten Studie wurde der Werdegang von 17 000 Briten und Britinnen, die alle im selben Jahr geboren wurden, bis zum Alter von 42 Jahren untersucht und ihr beruflicher Erfolg sowie der Einfluss ihres familiären Hintergrunds auf ihre Karriere analysiert. 
+Die Ergebnisse der Studie sind eindeutig: 
+Die Ergebnisse zeigten, dass Kinder aus wohlhabenderen Familien bereits beim ersten Intelligenztest im Alter von fünf Jahren bessere Ergebnisse erzielten als ihre Altersgenossen aus ärmeren Familien. Beim zweiten Test im Alter von zehn Jahren vergrößerte sich dieser Unterschied sogar noch. Mit zunehmendem Alter holten die Kinder aus wohlhabenderen Familien, die beim ersten Test schlecht abgeschnitten hatten, auf, während die ärmeren Kinder in ihrer kognitiven Entwicklung weniger Fortschritte machten. 
+	
+Einige Jahre später waren die Kinder aus den ärmsten Familien auf dem Arbeitsmarkt weniger erfolgreich, obwohl sie in früheren Tests gute Ergebnisse erzielt hatten. Offenbar konnten sie ihr Potenzial nicht voll ausschöpfen. Andererseits hatten auch Kinder aus wohlhabenden Familien, die in den Tests schlecht abschnitten, später im Leben gute Chancen, wenn ihre Eltern sie richtig förderten. 
+
+##### Positives Denken
+
+Ramon Siegenthaler erzählt uns von zwei Arten des positiven Denkens: Die intrinsische Motivation und die extrinsische Motivation. Die intrinsische Motivation kommt von innen, das heisst wie man über sich selbst denkt und ob man an seinen Erfolg glaubt. 
+Hier kommt die Autosuggestion ins Spiel. Diese Methode basiert auf der Annahme, dass unser Denken, Fühlen und Handeln beeinflusst wird. Durch das Wiederholen von positiven Sätzen kann man das Unterbewusstsein positiv beeinflussen. Diese Technik wird heutzutage im Bereich des Mentaltrainings eingesetzt, um negative Gedanken zu überwinden, die einen Menschen noch weiter von seinen Zielen entfernen.
+Die extrinsische Motivation ist ein Faktor wie die Menschen, die einen unterstützen. Herr Siegenthaler teilt uns mit, dass die anderen im besten Fall nicht viel Einfluss haben sollten, was vom Ziel ablenken kann. Aber die extrinsische Motivation kann helfen, positiv zu bleiben. Livia ist auch der Meinung, dass ein positives Umfeld einen großen Einfluss haben kann. Livia erklärt uns, wie sie positiver war, wenn ihr Trainer ihr sagte, dass sie etwas gut gemacht hatte, oder wenn ihr Vater ihr eine gute Bemerkung machte. Solche Dinge haben Livia motiviert, weiterzumachen.
+
+![Bild: Ramon Siegenthaler](screenshot-2023-06-01-192213.png)
+
+##### Die Schattenseite einer guten Mentalität
+
+Sich immer daran erinnern, dass man der Beste ist, um sein Ziel zu erreichen. Solche Sätze gehören doch zu einer guten Einstellung, oder? Aber ist das nicht egoistisch und nutzt man auf diese Weise nicht seine Mitmenschen aus?
+Livia weist jedoch darauf hin, dass sie schon oft erlebt hat, dass Menschen einem den Erfolg nicht gönnen und eifersüchtig sind. Livia betrachtet diese Situationen jedoch nicht als negativ, sondern als natürliche Gedanken, die sicherlich jeder mindestens einmal hatte, weil man besser sein möchte. Für Livia ist es wichtig, dass man seine Ziele auf ethische und moralische Weise verfolgt und es vermeidet, anderen zu schaden oder sie auszubeuten. Es geht darum, seinen Erfolg auf eine Weise zu erreichen, die mit den eigenen Werten und Überzeugungen im Einklang steht.
+Unsere Experten sind sich einig: Es ist sehr wichtig, auf sich selbst zu schauen und nicht immer nur auf andere. Sie betonen in diesem Zusammenhang, dass es wichtig ist, jemanden nicht grundlos auszunutzen oder sich als Mensch über andere zu stellen.
