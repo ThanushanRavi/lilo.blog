@@ -29,7 +29,7 @@ Durch die Diskussion mit ihm haben wir gelernt, dass es besser ist, sich realist
 
 Wir haben auch Livia interviewt, eine Studentin, die eine Maturaarbeit über Mentaltraining geschrieben hat und selbst ein solches Training absolviert hat. Livia wollte herausfinden, wie sich mentales Training auswirkt, und hat daher für kurze Zeit an einem solchen Training teilgenommen.  Zudem wollte sie auch ihre mentale Stärke im Volleyball verbessern, weshalb sie sich für dieses Training entschieden hat. Wie Herr Hirt betont auch Livia, wie wichtig es ist, sich realistische Ziele zu setzen. Sie hat dies in ihrem eigenen Mentaltraining gelernt und wendet es auch heute noch im Alltag an. Für sie sind kleine Ziele effektiver, da sie uns ein Erfolgserlebnis verschaffen und uns motivieren können, während zu hoch gesteckte Ziele eher demotivierend wirken können.
 
-`{{</*box*/>}}`
+{{<box>}}
 
 ##### SMART Ziele
 
@@ -43,7 +43,7 @@ Der Buchstabe "M" steht für messbar, in Schritten. Es ist besonders wichtig, di
 
 Das Modell hilft beim Setzen von Zielen, denn es stellt sicher, dass alles klar, präzise und messbar ist und dass diese Ziele innerhalb eines bestimmten Zeitraums erreicht werden können. 
 Kishore Hirt und Livia haben uns von einem Prinzip erzählt, das dem SMART-Prinzip ähnelt. Livia studiert derzeit und braucht ein ähnliches Prinzip für ihren Alltag. 
-`{{</*box*/>}}`
+{{<box>}}
 
 ##### Beginnt Erfolg wirklich im Kopf?
 
