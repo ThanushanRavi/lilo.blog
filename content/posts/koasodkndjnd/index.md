@@ -24,13 +24,13 @@ Wir haben uns mit zwei Experten zum Thema Mentalität unterhalten und kontrovers
 
 ![Bild: Kishore Hirt, ehemaliger Trainer des FC Thun](kishore-hirt-mentaltrainer-23.jpg)
 
-
-
 Durch die Diskussion mit ihm haben wir gelernt, dass es besser ist, sich realistische Ziele zu setzen oder Ziele, bei denen man bereits erfolgreich war. Dadurch hat man mehr Erfolgserlebnisse und kommt schneller in einen "Flow", in dem man viele Erfolgserlebnisse hat.
 
 ![Bild: Livia Loretan](foto-1-.jpeg)
 
 Wir haben auch Livia interviewt, eine Studentin, die eine Maturaarbeit über Mentaltraining geschrieben hat und selbst ein solches Training absolviert hat. Livia wollte herausfinden, wie sich mentales Training auswirkt, und hat daher für kurze Zeit an einem solchen Training teilgenommen.  Zudem wollte sie auch ihre mentale Stärke im Volleyball verbessern, weshalb sie sich für dieses Training entschieden hat. Wie Herr Hirt betont auch Livia, wie wichtig es ist, sich realistische Ziele zu setzen. Sie hat dies in ihrem eigenen Mentaltraining gelernt und wendet es auch heute noch im Alltag an. Für sie sind kleine Ziele effektiver, da sie uns ein Erfolgserlebnis verschaffen und uns motivieren können, während zu hoch gesteckte Ziele eher demotivierend wirken können.
+
+
 
 {{<box>}}
 ##### SMART Ziele
@@ -44,8 +44,9 @@ Der Buchstabe "M" steht für messbar, in Schritten. Es ist besonders wichtig, di
 "T" steht für Termin - Ziele sind Wünsche mit einer festen Frist. Anstatt zu sagen: "Ich werde bald mit dem Training beginnen", ist es wichtig, ein konkretes Datum festzulegen und dann zu beginnen. Dazu muss man den Glauben und den Willen an sich selbst haben, um anzufangen.
 
 Das Modell hilft beim Setzen von Zielen, denn es stellt sicher, dass alles klar, präzise und messbar ist und dass diese Ziele innerhalb eines bestimmten Zeitraums erreicht werden können. 
-Kishore Hirt und Livia haben uns von einem Prinzip erzählt, das dem SMART-Prinzip ähnelt. Livia studiert derzeit und braucht ein ähnliches Prinzip für ihren Alltag. 
-{{<box>}}
+Kishore Hirt und Livia haben uns von einem Prinzip erzählt, das dem SMART-Prinzip ähnelt. Livia studiert derzeit und braucht ein ähnliches Prinzip für ihren Alltag.
+{{<box>}} 
+
 
 ##### Beginnt Erfolg wirklich im Kopf?
 
@@ -95,7 +96,6 @@ Laut Ramon Siegenthaler gibt es viele Menschen, die andere Mitmenschen im Stich 
 > *Ramon Siegenthaler*
 
 ##### Fazit
-
 
 In unseren Gesprächen mit Experten haben wir erfahren, dass es viele Faktoren gibt, die für den Erfolg notwendig sind. Doch bevor man sich auf den Weg zum Ziel macht, gibt es einige wichtige Fragen, die man sich stellen sollte: Ist das Ziel wirklich das, was ich erreichen möchte? Habe ich die Fähigkeiten, um es zu erreichen? Stehe ich ethisch und moralisch im Einklang mit meinem Ziel? Und vor allem: Habe ich ein klares und festes Ziel vor Augen?
 Diese Fragen sind entscheidend, um eine stabile mentale Verfassung aufzubauen, die uns auf unserem Weg zum Erfolg unterstützt. Unsere Experten betonen, dass es wichtig ist, sich bewusst mit diesen Fragen auseinanderzusetzen, um ein starkes Fundament für unsere Ziele zu legen. Denn nur wer sein Ziel klar definiert hat, kann langfristigen Erfolg und Zufriedenheit erlangen.
