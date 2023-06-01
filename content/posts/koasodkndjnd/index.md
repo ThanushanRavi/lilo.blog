@@ -15,6 +15,8 @@ Erfolg ist ein Ziel, das man in vielen Bereichen des Lebens anstrebt. Aber wie k
 
 ##### Was ist Erfolg?
 
+
+
 Wir haben uns mit zwei Experten zum Thema Mentalität unterhalten und kontroverse Fragen gestellt, um mehr über die Bedeutung von Erfolg und Zielsetzungen zu erfahren. Herr Hirt, ein erfahrener Mentaltrainer, welcher auch ehemaliger Fussballtrainer bei BSC YB und FC Thun war, betont, wie wichtig ein gutes Ziel für den Erfolg ist. Herr Hirt sagt uns, dass wir zunächst Erfolg definieren müssen, um ein Ziel vor Augen zu haben. Er erklärt uns, dass viele Menschen zu ihm kommen und ihm sagen, dass sie den ersten Platz erreichen oder die Besten sein wollen. Doch dann fragt Herr Hirt sie, ob sie schon einmal so erfolgreich waren und ob sie schon einmal die Erfahrung gemacht haben, der Erste zu sein. Auf die Frage, wie wichtig eine positive Einstellung für den Erfolg ist, antwortet Hirt:
 
 > "Wenn du dir zu hohe Ziele setzt, wird es schwieriger, egal wie gut deine Einstellung ist."
@@ -33,6 +35,8 @@ Wir haben auch Livia interviewt, eine Studentin, die eine Maturaarbeit über Men
 
 ##### SMART Ziele
 
+
+
 Herr Hirt erwähnt während des Gesprächs, dass diese Ziele auch als SMART-Ziele bezeichnet werden. 
 Der Buchstabe "S" steht für selbstbestimmt und spezifisch. Das Ziel muss so formuliert sein, dass es von sich selbst abhängt. Ausserdem muss es klar und präzise definiert sein.
 
@@ -47,6 +51,8 @@ Kishore Hirt und Livia haben uns von einem Prinzip erzählt, das dem SMART-Prinz
 
 ##### Beginnt Erfolg wirklich im Kopf?
 
+
+
 Ist Erfolg wirklich eine Frage der Einstellung? Hat ein Kind, das in Armut aufwächst oder im falschen Land geboren wurde, die gleichen Chancen auf Erfolg oder gibt es Faktoren wie Umstände, Privilegien und Glück, die den Erfolg beeinflussen? 
 Wir haben ein sehr aufschlussreiches Gespräch mit Herrn Siegenthaler geführt. Ramon Siegenthaler ist ein langjähriger Spitzensportler und Trainer, der sowohl im Handball als auch im Parkour aktiv war und sein Wissen nun als Erwachsenenbildner einsetzt, um Athleten bei der körperlichen und mentalen Vorbereitung auf den Wettkampf zu helfen.
 
@@ -59,6 +65,8 @@ Nicht nur Ramon Siegenthaler, sondern auch Kishore Hirt ist mit dieser Ansicht e
 
 ##### Erfolg lässt sich kaufen
 
+
+
 Die Ungerechtigkeit des Weges zum Erfolg ist seit langem ein Diskussionsthema. In einer gross angelegten Studie wurde der Werdegang von 17 000 Briten und Britinnen, die alle im selben Jahr geboren wurden, bis zum Alter von 42 Jahren untersucht und ihr beruflicher Erfolg sowie der Einfluss ihres familiären Hintergrunds auf ihre Karriere analysiert. 
 Die Ergebnisse der Studie sind eindeutig: 
 Die Ergebnisse zeigten, dass Kinder aus wohlhabenderen Familien bereits beim ersten Intelligenztest im Alter von fünf Jahren bessere Ergebnisse erzielten als ihre Altersgenossen aus ärmeren Familien. Beim zweiten Test im Alter von zehn Jahren vergrößerte sich dieser Unterschied sogar noch. Mit zunehmendem Alter holten die Kinder aus wohlhabenderen Familien, die beim ersten Test schlecht abgeschnitten hatten, auf, während die ärmeren Kinder in ihrer kognitiven Entwicklung weniger Fortschritte machten. 
@@ -67,6 +75,8 @@ Einige Jahre später waren die Kinder aus den ärmsten Familien auf dem Arbeitsm
 
 ##### Positives Denken
 
+
+
 Ramon Siegenthaler erzählt uns von zwei Arten des positiven Denkens: Die intrinsische Motivation und die extrinsische Motivation. Die intrinsische Motivation kommt von innen, das heisst wie man über sich selbst denkt und ob man an seinen Erfolg glaubt. 
 Hier kommt die Autosuggestion ins Spiel. Diese Methode basiert auf der Annahme, dass unser Denken, Fühlen und Handeln beeinflusst wird. Durch das Wiederholen von positiven Sätzen kann man das Unterbewusstsein positiv beeinflussen. Diese Technik wird heutzutage im Bereich des Mentaltrainings eingesetzt, um negative Gedanken zu überwinden, die einen Menschen noch weiter von seinen Zielen entfernen.
 Die extrinsische Motivation ist ein Faktor wie die Menschen, die einen unterstützen. Herr Siegenthaler teilt uns mit, dass die anderen im besten Fall nicht viel Einfluss haben sollten, was vom Ziel ablenken kann. Aber die extrinsische Motivation kann helfen, positiv zu bleiben. Livia ist auch der Meinung, dass ein positives Umfeld einen großen Einfluss haben kann. Livia erklärt uns, wie sie positiver war, wenn ihr Trainer ihr sagte, dass sie etwas gut gemacht hatte, oder wenn ihr Vater ihr eine gute Bemerkung machte. Solche Dinge haben Livia motiviert, weiterzumachen.
@@ -74,6 +84,8 @@ Die extrinsische Motivation ist ein Faktor wie die Menschen, die einen unterstü
 ![Bild: Ramon Siegenthaler](screenshot-2023-06-01-192213.png)
 
 ##### Die Schattenseite einer guten Mentalität
+
+
 
 Sich immer daran erinnern, dass man der Beste ist, um sein Ziel zu erreichen. Solche Sätze gehören doch zu einer guten Einstellung, oder? Aber ist das nicht egoistisch und nutzt man auf diese Weise nicht seine Mitmenschen aus?
 Livia weist jedoch darauf hin, dass sie schon oft erlebt hat, dass Menschen einem den Erfolg nicht gönnen und eifersüchtig sind. Livia betrachtet diese Situationen jedoch nicht als negativ, sondern als natürliche Gedanken, die sicherlich jeder mindestens einmal hatte, weil man besser sein möchte. Für Livia ist es wichtig, dass man seine Ziele auf ethische und moralische Weise verfolgt und es vermeidet, anderen zu schaden oder sie auszubeuten. Es geht darum, seinen Erfolg auf eine Weise zu erreichen, die mit den eigenen Werten und Überzeugungen im Einklang steht.
