@@ -1,7 +1,7 @@
 +++
 title = "Erfolgreich sein beginnt im Kopf – Wie die richtige Einstellung zum Erfolg führt "
 date = "2023-05-16"
-draft = true
+draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
 description = ""
@@ -21,4 +21,4 @@ Wir haben uns mit zwei Experten zum Thema Mentalität unterhalten und kontrovers
 >
 > *\-Kishore Hirt*
 
-![Bild: Kishore Hirt,](kishore-hirt-mentaltrainer-23.jpg)
+![Bild: Kishore Hirt, ehemaliger Trainer des FC Thun](kishore-hirt-mentaltrainer-23.jpg "Kishore Hirt")
