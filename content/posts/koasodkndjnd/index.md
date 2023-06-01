@@ -49,6 +49,8 @@ Das Modell hilft beim Setzen von Zielen, denn es stellt sicher, dass alles klar,
 Kishore Hirt und Livia haben uns von einem Prinzip erzählt, das dem SMART-Prinzip ähnelt. Livia studiert derzeit und braucht ein ähnliches Prinzip für ihren Alltag. 
 {{<box>}}
 
+
+
 ##### Beginnt Erfolg wirklich im Kopf?
 
 
