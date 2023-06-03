@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Thanushan Ravi"
-image = ""
+image = "/media/autor-bild.jpg"
 url = "/about/"
 +++
